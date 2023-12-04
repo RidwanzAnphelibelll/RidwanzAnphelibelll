@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanzanphelibelll" /> </p>
 
-### **[+] Find Me on:**
+### **[+] Find Me On :**
 <p align="left">
 <a href="https://fb.com/ridwanz.anphelibelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridwanz anphelibelll" height="30" width="40" /></a>
 <a href="https://instagram.com/ridwanz_sptra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridwanz_sptra" height="30" width="40" /></a>
