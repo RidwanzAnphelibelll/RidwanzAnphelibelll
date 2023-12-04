@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridwanz</h1>
 <h3 align="center">I come from Kebumen, Central Java.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="ridwanzanphelibelll" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanzanphelibelll" /> </p>
 <img align="right" alt="Turu" width="250" height="400" src="ayang.jpg">
 
 
