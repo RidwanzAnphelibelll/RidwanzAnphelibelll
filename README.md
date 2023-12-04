@@ -11,7 +11,7 @@
   <a href="https://t.me/RidwanzSaputra"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanzanphelibelll" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanzanphelibelll" /></p>
 
 <p align="center"><a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api?username=ridwanzanphelibelll&show_icons=true&theme=radical"></a></p>
 
