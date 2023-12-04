@@ -17,4 +17,4 @@
 
 <p align="center"><a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact"></a></p> 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&theme=radical" alt="ridwanzanphelibelll" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="ridwanzanphelibelll" /></p>
