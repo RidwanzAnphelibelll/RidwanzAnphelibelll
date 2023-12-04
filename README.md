@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridwanz</h1>
 <h3 align="center">I come from Kebumen, Central Java.</h3>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ridwanzanphelibelll)
+!![Github Trophy](https://github-profile-trophy.vercel.app/?username=ridwanzanphelibelll&theme=radical)
 
 ### **[+] Find Me On :**
 <p align="center">
