@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ridwanz</h1>
-<h3 align="center">I come from Kebumen, Central Java.</h3>
+<h3 align="center">I Come From Karanggayam, Central Java, Indonesia</h3>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ridwanzanphelibelll)
+<p align="center">
+  <img src="img.jpg" alt="Profile Image" width="300" height="300">
+</p>
 
 ### **[+] Find Me On :**
 <p align="center">
@@ -11,10 +13,21 @@
   <a href="https://t.me/RidwanzSaputra"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanzanphelibelll" /></p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanzanphelibelll" />
+</p>
 
-<p align="center"><a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api?username=ridwanzanphelibelll&show_icons=true&theme=radical"></a></p>
+### **GitHub Stats:**
+<p align="center">
+  <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api?username=ridwanzanphelibelll&show_icons=true&theme=radical"></a>
+</p>
 
-<p align="center"><a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact"></a></p> 
+### **Top Languages:**
+<p align="center">
+  <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact"></a>
+</p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="ridwanzanphelibelll" /></p>
+### **GitHub Streak:**
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="ridwanzanphelibelll" />
+</p>
