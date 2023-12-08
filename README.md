@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridwanz</h1>
-<h3 align="center">I Come From Karanggayam, Central Java, Indonesia</h3>
+<h3 align="center">I Come From Kebumen, Central Java, Indonesia</h3>
 
 <p align="center">
   <img src="img.jpg" alt="Profile Image" width="300" height="300">
