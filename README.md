@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Hi%20👋%20I'm%20Ridwanz%20I%20come%20from%20Kebumen%20%20%20%20Central%20Java,%20Indonesia)](https://git.io/typing-svg)
 
-
 ### **[+] Find Me On :**
 <p align="center">
   <a href="https://instagram.com/ridwanz_sptra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
