@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Hi%20👋,%20I'm%20Ridwanz I20%from%20Kebumen,%20Central%20Java,%20Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Hi%20👋%20I'm%20Ridwanz%20from%20Kebumen%20Central%20Java%20Indonesia)](https://git.io/typing-svg)
+
 
 
 ### **[+] Find Me On :**
