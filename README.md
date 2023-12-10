@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridwanz</h1>
-<h3 align="center">I Come From Kebumen, Central Java, Indonesia</h3>
-
-<p align="center">
-  <img src="img.jpg" alt="Profile Image" width="300" height="300">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Hi 👋, I'm Ridwanz-I Come From Kebumen, Central Java, Indonesia)](https://git.io/typing-svg)
 
 ### **[+] Find Me On :**
 <p align="center">
