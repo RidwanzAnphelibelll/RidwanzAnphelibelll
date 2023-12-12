@@ -26,7 +26,7 @@
 </p> 
 
 ### **Repo Stats:**
-[github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Wa-OpenAI&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Wa-OpenAI&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Ohmyzsh&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=UptimeRobot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Share&theme=nightowl)
