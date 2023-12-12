@@ -30,7 +30,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Ohmyzsh&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=UptimeRobot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Share&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=RidwanzAnphelibelll&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=RidwanzAnphelibelll&theme=dark)
 
 ### **GitHub Streak:**
 <p align="center">
