@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridwanz Saputra</h1>
 <h3 align="center">I come from Kebumen, Central Java, Indonesia</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Jangan%20Lupa%20👋%20Turu!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Jangan%20Lupa%20Turu!)](https://git.io/typing-svg)
 
 ### **[+] Find Me On :**
 <p align="center">
