@@ -37,6 +37,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="ridwanzanphelibelll" />
 </p>
 
-<summary>&#127942 <b>GitHub Awards</b>
+<summary>&#127942 <b>Created By @Ridwanz</b>
 </summary>
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=RidwanzAnphelibelll)
