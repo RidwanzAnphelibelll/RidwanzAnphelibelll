@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&background=DBDBDB00&lines=Jangan%20Lupa%20Turu!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Jangan%20Lupa%20Turu!)](https://git.io/typing-svg)
-
 ### **[+] Find Me On :**
 <p align="center">
   <a href="https://instagram.com/ridwanz_sptra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
