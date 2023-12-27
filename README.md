@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&background=DBDBDB00&lines=Jangan%20Lupa%20Turu!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&background=DBDBDB00&lines=JANGAN%20LUPA%20TURU!)](https://git.io/typing-svg)
 
 ### **[+] Find Me On :**
 <p align="center">
