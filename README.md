@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ridwanz Saputra</h1>
+<h3 align="center">I come from Karanggayam, Central Java, Indonesia.</h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&background=DBDBDB00&lines=JANGAN%20LUPA%20TURU!)](https://git.io/typing-svg)
 
 ### **[+] Find Me On :**
