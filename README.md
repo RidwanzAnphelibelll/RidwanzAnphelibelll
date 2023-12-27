@@ -25,13 +25,6 @@
   <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact"></a>
 </p> 
 
-### **Repo Stats:**
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Wa-OpenAI&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Ohmyzsh&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=UptimeRobot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=Share&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanzAnphelibelll&repo=RidwanzAnphelibelll&theme=dark)
-
 ### **GitHub Streak:**
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="ridwanzanphelibelll" />
