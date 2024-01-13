@@ -25,10 +25,5 @@
   <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact"></a>
 </p> 
 
-### **GitHub Streak:**
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="ridwanzanphelibelll" />
-</p>
-
 <summary>&#127942 <b>Created By @Ridwanz</b>
 </summary>
