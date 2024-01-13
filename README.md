@@ -27,7 +27,7 @@
 
 ### **GitHub Streak:**
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RidwanzAnphelibelll&" alt="ridwanzanphelibelll" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="ridwanzanphelibelll" />
 </p>
 
 <summary>&#127942 <b>Created By @Ridwanz</b>
