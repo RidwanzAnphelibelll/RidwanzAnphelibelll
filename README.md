@@ -25,5 +25,5 @@
   <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact"></a>
 </p> 
 
-<summary>&#127942 <b>Created By @Ridwanz</b>
+<summary>&#127942 <b>Created By  ©ʀɪᴅᴡᴀɴᴢ</b>
 </summary>
