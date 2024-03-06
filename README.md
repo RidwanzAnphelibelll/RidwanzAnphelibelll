@@ -1,3 +1,4 @@
+
 # Hello, I'm Ridwanz Saputra! 👋
 
 ### Connect With Me :
@@ -17,17 +18,17 @@
 
 ## Profile Views
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanzanphelibelll" />
+  <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=4285F4&style=flat" alt="ridwanzanphelibelll" />
 </p>
 
 ## GitHub Stats :
 <p align="center">
-  <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api?username=ridwanzanphelibelll&show_icons=true&theme=radical"></a>
+  <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api?username=ridwanzanphelibelll&show_icons=true&theme=dracula"></a>
 </p>
 
 ## Top Languages :
 <p align="center">
-  <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact"></a>
+  <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=dracula&layout=compact"></a>
 </p> 
 
 <details>
