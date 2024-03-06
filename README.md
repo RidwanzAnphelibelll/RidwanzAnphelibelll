@@ -1,7 +1,4 @@
-# Hi there! 👋, I'm Ridwanz Saputra
-
-## About Me
-I hail from Karanggayam, Central Java, Indonesia.
+# Hello, I'm Ridwanz Saputra! 👋
 
 ### Find Me On:
 <p align="center">
@@ -27,5 +24,5 @@ I hail from Karanggayam, Central Java, Indonesia.
 </p> 
 
 <details>
-  <summary>🔍 <b>Created By ©ʀɪᴅᴡᴀɴᴢ</b></summary>
+  <summary><b>Created By ©ʀɪᴅᴡᴀɴᴢ</b></summary>
 </details>
