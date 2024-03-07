@@ -21,9 +21,8 @@
 </p>
 
 ## GitHub Stats :
-<p align="center">
-  <a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api?username=ridwanzanphelibelll&show_icons=true&theme=dracula"></a>
-</p>
+<p align="center"><a href="https://github.com/zeeoneofficial"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/zeeoneofficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p> 
 
 ## Top Languages :
 <p align="center">
