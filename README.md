@@ -2,9 +2,8 @@
 
 # Biodata :
 
-• **Name**: Ridwanz Saputra
-
-• **Location**: Kebumen, Jawa Tengah, Indonesia
+- **Name** : Ridwanz Saputra
+- **Location** : Kebumen, Jawa Tengah, Indonesia
 
 ### Connect With Me:
 <p align="center">
