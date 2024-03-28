@@ -3,7 +3,7 @@
 # Biodata :
 
 • **Name**: Ridwanz Saputra
-• **Username**: RidwanzSaputra
+
 • **Location**: Kebumen, Jawa Tengah, Indonesia
 
 ### Connect With Me:
