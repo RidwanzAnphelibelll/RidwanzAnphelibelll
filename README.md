@@ -24,6 +24,8 @@
 ## Top Languages:
 <p align="center"><a href="https://github.com/ridwanzanphelibelll"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact"></a></p> 
 
-<details>
-  <summary><b>Created By ©ʀɪᴅᴡᴀɴᴢ</b></summary>
 </details>
+
+---
+
+&copy; 2023 RidwanzSaputra. All Rights Reserved.
