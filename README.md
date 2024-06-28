@@ -18,13 +18,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ridwanzanphelibelll">
+  <a href="https://github.com/RidwanzAnphelibelll?tab=repositories">
     <picture>
       <source
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=ridwanzanphelibelll&theme=radical&area=true&height=300"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=RidwanzAnphelibelll&theme=material-palenight&radius=16&area=true&height=300"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridwanzanphelibelll&theme=radical&radius=16&area=true&height=300" title="Contribution graph" width="99%" alt="contribution graph" />
-    </picture>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidwanzAnphelibelll&theme=vue&radius=16&area=true&height=300" title="Contribution graph" width="99%" alt="contribution graph" />
   </a>
 </p>
