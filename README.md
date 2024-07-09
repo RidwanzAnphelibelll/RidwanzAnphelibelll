@@ -17,17 +17,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact" alt="Top Languages" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/RidwanzAnphelibelll?tab=repositories">
-    <picture>
-      <source
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=RidwanzAnphelibelll&theme=material-palenight&radius=16&area=true&height=300"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidwanzAnphelibelll&theme=vue&radius=16&area=true&height=250" title="Contribution graph" width="99%" alt="contribution graph" />
-  </a>
-</p>
-
-<a <a href='https://t.me/RidwanzSaputra'>
-  <img src='https://github.com/ibnufachrizal/ibnufachrizal/assets/26188697/bf825332-f99b-4b66-a46e-0c5584c19162' alt='ibnu header' width='100%' />
-</a>
