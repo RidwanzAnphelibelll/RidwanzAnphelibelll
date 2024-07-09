@@ -28,7 +28,6 @@
   </a>
 </p>
 
-<a href='https://t.me/RidwanzSaputra'>
-  <img src='https://github.com/RidwanzAnphelibelll/RidwanzAnphelibelll/assets/26188697/bf825332-f99b-4b66-a46e-0c5584c19162' alt='Ridwanz header' width='100%' />
+<a <a href='https://t.me/RidwanzSaputra'>
+  <img src='https://github.com/ibnufachrizal/ibnufachrizal/assets/26188697/bf825332-f99b-4b66-a46e-0c5584c19162' alt='ibnu header' width='100%' />
 </a>
-
