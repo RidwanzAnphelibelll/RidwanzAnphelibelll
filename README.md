@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,py,js" />
+  </a>
+</p>
+
 ## Profile Views:
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=4285F4&style=flat" alt="Profile Views" />
@@ -14,10 +20,5 @@
 <p align="center">
   <a href="https://github.com/ridwanzanphelibelll">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,py,js" />
   </a>
 </p>
