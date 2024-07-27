@@ -4,7 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=4285F4&style=flat" alt="Profile Views" />
 </p>
 
-(https://skillicons.dev/icons?i=js,py,bash=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## GitHub Stats:
 <p align="center">
