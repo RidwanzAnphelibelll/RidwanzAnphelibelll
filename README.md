@@ -4,25 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=4285F4&style=flat" alt="Profile Views" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="91">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python" /><br>Python
-    </td>
-    <td align="center" width="91">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" /><br>JavaScript
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" /><br>MySQL
-    <td align="center" width="91">
-<img src="https://techstack-generator.vercel.app/bash-icon.svg" width="48" height="48" alt="bash" /><br>
-Bash
-    </td>
-  </tr>
-</table>
+(https://skillicons.dev/icons?i=js,py,bash=3)](https://skillicons.dev)
 
 ## GitHub Stats:
 <p align="center">
