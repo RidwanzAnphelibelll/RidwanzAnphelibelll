@@ -13,7 +13,7 @@
 ## Top Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,js,py" />
+    <img src="https://skillicons.dev/icons?i=bash,py,js" />
   </a>
 </p>
 <p align="center">
