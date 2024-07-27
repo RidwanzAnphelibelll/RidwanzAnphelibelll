@@ -3,12 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=4285F4&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,js,py" />
-  </a>
-</p>
-
 ## GitHub Stats:
 <p align="center">
   <a href="https://github.com/ridwanzanphelibelll">
