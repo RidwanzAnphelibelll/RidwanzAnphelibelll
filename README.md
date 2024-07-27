@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ridwanzanphelibelll&label=Profile%20views&color=4285F4&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Javascript -->
-<table>
+<table align="center">
   <tr>
     <td align="center" width="91">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
@@ -16,44 +15,14 @@
     <td align="center" width="91">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" /><br>JavaScript
     </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" /><br>MySQL
+    <td align="center" width="91">
+<img src="https://techstack-generator.vercel.app/bash-icon.svg" width="48" height="48" alt="bash" /><br>
+Bash
+    </td>
   </tr>
 </table>
-
-<!-- Python -->
-print("<table>")
-print('<tr>')
-print('    <td align="center" width="91">')
-print('        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />')
-print('        <br>GitHub')
-print('    </td>')
-print('    <td align="center" width="90">')
-print('        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python" />')
-print('        <br>Python')
-print('    </td>')
-print('    <td align="center" width="91">')
-print('        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" />')
-print('        <br>JavaScript')
-print('    </td>')
-print('</tr>')
-print("</table>")
-
-<!-- Bash -->
-echo '<table>'
-echo '<tr>'
-echo '    <td align="center" width="91">'
-echo '        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />'
-echo '        <br>GitHub'
-echo '    </td>'
-echo '    <td align="center" width="90">'
-echo '        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python" />'
-echo '        <br>Python'
-echo '    </td>'
-echo '    <td align="center" width="91">'
-echo '        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" />'
-echo '        <br>JavaScript'
-echo '    </td>'
-echo '</tr>'
-echo '</table>'
 
 ## GitHub Stats:
 <p align="center">
