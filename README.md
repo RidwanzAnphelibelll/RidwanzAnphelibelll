@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=blue&width=380&height=45&lines=Welcome+To+My+Github;Ridwanz+Saputra;Nice+To+Meet+You+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=blue&width=380&height=45&lines=Welcome+To+My+Github;Ridwanz+Saputra;&center=true"></a>
+
 
 ## Profile Views:
 <p align="left"> 
