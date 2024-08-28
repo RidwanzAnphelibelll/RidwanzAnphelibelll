@@ -1,6 +1,11 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=blue&width=380&height=45&lines=Welcome+To+My+Github;Ridwanz+Saputra;&center=true"></a>
+<h2>Now Playing on Spotify 🎵</h2>
 
+  <p>
+    <a href="https://open.spotify.com/user/31a5rvn2akorvdmyazul6b4vul2m">
+      <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a5rvn2akorvdmyazul6b4vul2m&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a5rvn2akorvdmyazul6b4vul2m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]" alt="Now Playing on Spotify">
+    </a>
+  </p>
+</div>
 
 ## Profile Views:
 <p align="left"> 
