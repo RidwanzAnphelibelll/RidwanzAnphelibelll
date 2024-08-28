@@ -1,4 +1,4 @@
-<h2>Now Playing on Spotify 🎵</h2>
+<h2>Playing on Spotify:</h2>
 
   <p>
     <a href="https://open.spotify.com/user/31a5rvn2akorvdmyazul6b4vul2m">
