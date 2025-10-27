@@ -17,3 +17,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact" alt="Top Languages" />
   </a>
 </p>
+
+## Connect With Me:
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6285225416745)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RidwanzSaputra)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/Ridwanzanphelibelll)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rdwnzsptra)
