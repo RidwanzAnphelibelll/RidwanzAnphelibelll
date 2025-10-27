@@ -17,15 +17,15 @@ jobs:
       run: |
         sudo timedatectl set-timezone Asia/Jakarta
         
-    - name: Update UPDATES file
+    - name: Update UPDATED file
       run: |
-        TIMESTAMP=$(TZ='Asia/Jakarta' date '+%B %d, %Y - %H:%M WIB')
-        echo "$TIMESTAMP" > UPDATES
+        TIMESTAMP=$(TZ='Asia/Jakarta' date '+%d %B %Y - %H:%M WIB')
+        echo "$TIMESTAMP" > UPDATED
         
     - name: Commit and push if changed
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add UPDATES
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update $(TZ='Asia/Jakarta' date '+%B %d, %Y - %H:%M WIB')" && git push)
+        git add UPDATED
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update $(TZ='Asia/Jakarta' date '+%d %B %Y - %H:%M WIB')" && git push)
         
