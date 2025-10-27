@@ -20,8 +20,5 @@
 
 ## Connect With Me:
 <p align="left">
-  <a href="https://wa.me/6285225416745"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://t.me/RidwanzSaputra"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://facebook.com/Ridwanzanphelibelll"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/rdwnzsptra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://wa.me/6285225416745"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="https://t.me/RidwanzSaputra"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="https://facebook.com/Ridwanzanphelibelll"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="https://instagram.com/rdwnzsptra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
