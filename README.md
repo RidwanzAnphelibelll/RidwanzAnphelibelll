@@ -6,14 +6,21 @@
 ## GitHub Stats:
 <p align="center">
   <a href="https://github.com/ridwanzanphelibelll">
-    <img src="https://github-readme-stats.vercel.app/api?username=ridwanzanphelibelll&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ridwanzanphelibelll&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
 ## Top Languages:
 <p align="center">
   <a href="https://github.com/ridwanzanphelibelll">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridwanzanphelibelll&theme=radical&layout=compact" alt="Top Languages" />
+  </a>
+</p>
+
+## GitHub Streak:
+<p align="center">
+  <a href="https://github.com/ridwanzanphelibelll">
+    <img src="https://streak-stats.demolab.com/?user=ridwanzanphelibelll&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
