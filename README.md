@@ -22,13 +22,6 @@
   </a>
 </p>
 
-## GitHub Streak:
-<p align="center">
-  <a href="https://github.com/ridwanzanphelibelll">
-    <img src="https://streak-stats.demolab.com/?user=ridwanzanphelibelll&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-
 ## Connect With Me:
 <p align="center">
   <a href="https://wa.me/6285225416745" target="_blank">
